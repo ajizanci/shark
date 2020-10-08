@@ -20,6 +20,7 @@
     "jsx": "react"
   },
   "include": [
+    "decs.d.ts",
     "src"
   ]
 }
